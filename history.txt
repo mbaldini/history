@@ -1,5 +1,22 @@
-successMon Dec 19 2016 11:28:02 GMT-0800 (PST): checking file insuccessMon Dec 19 2016 11:28:08 GMT-0800 (PST): checking file insuccessMon Dec 19 2016 11:28:45 GMT-0800 (PST): checking file in
-success
 Mon Dec 19 2016 11:28:51 GMT-0800 (PST): checking file in
 success
 Mon Dec 19 2016 11:28:57 GMT-0800 (PST): checking file in
+success
+waiting 9477.674154585387 seconds
+waiting 2370.8298965161107 seconds
+waiting 8109 seconds
+waiting 9651 seconds (160.85 minutes)
+waiting 2993 seconds (49.88333333333333 minutes)
+waiting 3126 seconds (52.1 minutes)
+waiting 2426 seconds (40.43333333333333 minutes)
+waiting 2449 seconds (40.81666666666667 minutes)
+waiting 1657 seconds (27.616666666666667 minutes)
+waiting 3147 seconds (52.45 minutes)
+waiting 1631 seconds (27.183333333333334 minutes)
+waiting 874 seconds (14.566666666666666 minutes)
+waiting 2906 seconds (48.43 minutes)
+waiting 1281 seconds (21.35 minutes)
+waiting 1378 seconds (22.97 minutes)
+waiting 1023 seconds (17.05 minutes)
+Mon Dec 19 2016 13:03:10 GMT-0800 (PST): checking file in
+waiting 1323 seconds (22.05 minutes)
