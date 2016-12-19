@@ -30,3 +30,6 @@ next update in 13.85 minutes at Mon Dec 19 2016 13:53:31 GMT-0800 (PST)
 next update in 5.13 minutes at 13:48:42 GMT-0800 (PST)
 Mon Dec 19 2016 13:48:42 GMT-0800 (PST): checking file in
 next update in 12.15 minutes at 14:00:52 GMT-0800 (PST)
+success
+Mon Dec 19 2016 14:00:52 GMT-0800 (PST): checking file in
+next update in 44.05 minutes at 14:44:56 GMT-0800 (PST)
