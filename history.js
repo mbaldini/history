@@ -21,7 +21,7 @@ function doCheckin() {
 
 function log(message) {
     console.log(message);
-    fs.appendFile("/Users/mbaldini/Git/Misc/history/history.txt", message, (error) => {
+    fs.appendFile("/Users/mbaldini/Git/Misc/history/history.txt", message + "\n", (error) => {
         console.log(error);
     });
 }
