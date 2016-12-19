@@ -5,7 +5,9 @@ function doWait() {
     var rnd = Math.random();
     // set a timeout for somewhere between 5 and 60 minutes
     var timeout = Math.round(((55 * rnd) + 5) * 60);
-    log('waiting ' + timeout + ' seconds (' + (Math.round((timeout / 60) * 100) / 100) + ' minutes)');
+    var dt = new Date(new Date().getTime() + timeout * 1000);
+    log('next update in ' + (Math.round((timeout / 60) * 100) / 100) + ' minutes at ' + dt.toTimeString());
+    // log('waiting ' + timeout + ' seconds (' + (Math.round((timeout / 60) * 100) / 100) + ' minutes)');
     setTimeout(doCheckin, timeout * 1000);
 }
 

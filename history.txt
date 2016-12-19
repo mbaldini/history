@@ -20,3 +20,13 @@ waiting 1378 seconds (22.97 minutes)
 waiting 1023 seconds (17.05 minutes)
 Mon Dec 19 2016 13:03:10 GMT-0800 (PST): checking file in
 waiting 1323 seconds (22.05 minutes)
+success
+next update at Mon Dec 19 2016 13:54:39 GMT-0800 (PST)
+waiting 973 seconds (16.22 minutes)
+next update at Mon Dec 19 2016 13:49:26 GMT-0800 (PST)
+next update in 15.87minutes at Mon Dec 19 2016 13:55:20 GMT-0800 (PST)
+next update in 47.27 minutes at Mon Dec 19 2016 14:26:54 GMT-0800 (PST)
+next update in 13.85 minutes at Mon Dec 19 2016 13:53:31 GMT-0800 (PST)
+next update in 5.13 minutes at 13:48:42 GMT-0800 (PST)
+Mon Dec 19 2016 13:48:42 GMT-0800 (PST): checking file in
+next update in 12.15 minutes at 14:00:52 GMT-0800 (PST)
