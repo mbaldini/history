@@ -84,3 +84,6 @@ success
 next update in 35.95 minutes at 10:20:45 GMT-0800 (PST)
 Wed Dec 21 2016 10:20:45 GMT-0800 (PST): checking file in
 next update in 59.92 minutes at 11:20:41 GMT-0800 (PST)
+success
+Wed Dec 21 2016 11:22:38 GMT-0800 (PST): checking file in
+next update in 22.58 minutes at 11:45:14 GMT-0800 (PST)
