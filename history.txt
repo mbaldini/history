@@ -758,3 +758,6 @@ next update in 38.95 minutes at 16:28:18 GMT-0800 (PST)
 success
 Fri Jan 27 2017 16:28:18 GMT-0800 (PST): checking file in
 next update in 54.75 minutes at 17:23:04 GMT-0800 (PST)
+success
+Fri Jan 27 2017 17:23:04 GMT-0800 (PST): checking file in
+next update in 27.9 minutes at 17:50:59 GMT-0800 (PST)
