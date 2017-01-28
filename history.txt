@@ -806,3 +806,6 @@ and the repository exists.
 
 Fri Jan 27 2017 23:12:11 GMT-0800 (PST): checking file in
 next update in 23.8 minutes at 23:36:00 GMT-0800 (PST)
+success
+Fri Jan 27 2017 23:36:00 GMT-0800 (PST): checking file in
+next update in 46.42 minutes at 00:22:26 GMT-0800 (PST)
