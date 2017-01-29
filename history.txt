@@ -968,3 +968,6 @@ and the repository exists.
 
 Sat Jan 28 2017 16:30:23 GMT-0800 (PST): checking file in
 next update in 40.58 minutes at 17:10:59 GMT-0800 (PST)
+success
+Sat Jan 28 2017 17:10:59 GMT-0800 (PST): checking file in
+next update in 20.57 minutes at 17:31:34 GMT-0800 (PST)
