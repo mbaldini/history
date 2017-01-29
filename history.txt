@@ -1214,3 +1214,12 @@ and the repository exists.
 
 Sun Jan 29 2017 14:35:36 GMT-0800 (PST): checking file in
 next update in 47.02 minutes at 15:22:38 GMT-0800 (PST)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Sun Jan 29 2017 15:22:38 GMT-0800 (PST): checking file in
+next update in 5.25 minutes at 15:27:54 GMT-0800 (PST)
