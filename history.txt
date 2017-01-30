@@ -1373,3 +1373,6 @@ and the repository exists.
 
 Mon Jan 30 2017 04:13:41 GMT-0800 (PST): checking file in
 next update in 12.9 minutes at 04:26:36 GMT-0800 (PST)
+success
+Mon Jan 30 2017 04:26:36 GMT-0800 (PST): checking file in
+next update in 29.27 minutes at 04:55:53 GMT-0800 (PST)
