@@ -1235,3 +1235,6 @@ and the repository exists.
 
 Sun Jan 29 2017 15:58:15 GMT-0800 (PST): checking file in
 next update in 55.23 minutes at 16:53:30 GMT-0800 (PST)
+success
+Sun Jan 29 2017 16:53:30 GMT-0800 (PST): checking file in
+next update in 23 minutes at 17:16:31 GMT-0800 (PST)
