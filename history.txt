@@ -1714,3 +1714,12 @@ next update in 109.98 minutes at 16:03:13 GMT-0800 (PST)
 success
 Sat Feb 11 2017 16:03:12 GMT-0800 (PST): checking file in
 next update in 62.67 minutes at 17:05:53 GMT-0800 (PST)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Sat Feb 11 2017 17:05:53 GMT-0800 (PST): checking file in
+next update in 122.12 minutes at 19:08:01 GMT-0800 (PST)
