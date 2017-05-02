@@ -2595,3 +2595,12 @@ next update in 168.05 minutes at 15:52:49 GMT-0700 (PDT)
 success
 Tue May 02 2017 11:07:39 GMT-0700 (PDT): checking file in
 next update in 74.32 minutes at 12:21:59 GMT-0700 (PDT)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+ERROR: Account `mbaldini' is disabled. Please ask the owner to check their account.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Tue May 02 2017 12:21:59 GMT-0700 (PDT): checking file in
+next update in 102.72 minutes at 14:04:43 GMT-0700 (PDT)
