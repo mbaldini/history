@@ -2604,3 +2604,12 @@ and the repository exists.
 
 Tue May 02 2017 12:21:59 GMT-0700 (PDT): checking file in
 next update in 102.72 minutes at 14:04:43 GMT-0700 (PDT)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+ERROR: Account `mbaldini' is disabled. Please ask the owner to check their account.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Tue May 02 2017 14:04:42 GMT-0700 (PDT): checking file in
+next update in 154.48 minutes at 16:39:12 GMT-0700 (PDT)
