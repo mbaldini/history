@@ -2622,3 +2622,15 @@ and the repository exists.
 
 Tue May 02 2017 16:39:12 GMT-0700 (PDT): checking file in
 next update in 94.23 minutes at 18:13:27 GMT-0700 (PDT)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+To github.com:mbaldini/history.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:mbaldini/history.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Wed May 03 2017 09:52:47 GMT-0700 (PDT): checking file in
+next update in 147.65 minutes at 12:20:27 GMT-0700 (PDT)
