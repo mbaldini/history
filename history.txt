@@ -2634,3 +2634,22 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Wed May 03 2017 09:52:47 GMT-0700 (PDT): checking file in
 next update in 147.65 minutes at 12:20:27 GMT-0700 (PDT)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+To github.com:mbaldini/history.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:mbaldini/history.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+next update in 169.22 minutes at 13:31:11 GMT-0700 (PDT)
+next update in 126.62 minutes at 12:49:35 GMT-0700 (PDT)
+next update in 68.25 minutes at 11:51:16 GMT-0700 (PDT)
+next update in 116.32 minutes at 12:39:22 GMT-0700 (PDT)
+next update in 102.05 minutes at 12:25:07 GMT-0700 (PDT)
+next update in 98.05 minutes at 12:21:08 GMT-0700 (PDT)
+next update in 56.38 minutes at 11:40:11 GMT-0700 (PDT)
+Tue Aug 15 2017 11:40:11 GMT-0700 (PDT): checking file in
+next update in 11.92 minutes at 11:52:07 GMT-0700 (PDT)
