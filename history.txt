@@ -3073,3 +3073,12 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Tue Aug 22 2017 15:58:22 GMT-0700 (PDT): checking file in
 next update in 98.72 minutes at 17:37:06 GMT-0700 (PDT)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+ssh: Could not resolve hostname github.com: nodename nor servname provided, or not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Tue Aug 22 2017 17:37:05 GMT-0700 (PDT): checking file in
+next update in 20.13 minutes at 17:57:14 GMT-0700 (PDT)
