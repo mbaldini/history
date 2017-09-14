@@ -3570,3 +3570,6 @@ success
 next update in 83.08 minutes at 15:09:40 GMT-0700 (PDT)
 Thu Sep 14 2017 15:09:40 GMT-0700 (PDT): checking file in
 next update in 84.7 minutes at 16:34:23 GMT-0700 (PDT)
+success
+Thu Sep 14 2017 16:34:23 GMT-0700 (PDT): checking file in
+next update in 33.05 minutes at 17:07:27 GMT-0700 (PDT)
