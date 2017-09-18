@@ -3678,3 +3678,12 @@ and the repository exists.
 
 Sun Sep 17 2017 15:23:07 GMT-0700 (PDT): checking file in
 next update in 77.38 minutes at 16:40:31 GMT-0700 (PDT)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+ssh: Could not resolve hostname github.com: nodename nor servname provided, or not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Sun Sep 17 2017 19:03:58 GMT-0700 (PDT): checking file in
+next update in 32.6 minutes at 19:36:35 GMT-0700 (PDT)
