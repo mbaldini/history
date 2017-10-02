@@ -3904,3 +3904,12 @@ next update in 71.17 minutes at 09:30:17 GMT-0700 (PDT)
 success
 Sun Oct 01 2017 20:44:01 GMT-0700 (PDT): checking file in
 next update in 109.68 minutes at 22:33:43 GMT-0700 (PDT)
+Error: Command failed: git add .; git commit -m "commit"; git push;
+ssh: Could not resolve hostname github.com: nodename nor servname provided, or not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Sun Oct 01 2017 22:33:43 GMT-0700 (PDT): checking file in
+next update in 57.68 minutes at 23:31:25 GMT-0700 (PDT)
