@@ -3985,3 +3985,6 @@ and the repository exists.
 
 Mon Oct 02 2017 09:18:27 GMT-0700 (PDT): checking file in
 next update in 96 minutes at 10:54:28 GMT-0700 (PDT)
+success
+Mon Oct 02 2017 10:54:28 GMT-0700 (PDT): checking file in
+next update in 39.5 minutes at 11:33:59 GMT-0700 (PDT)
